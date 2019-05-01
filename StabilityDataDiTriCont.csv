@@ -1,0 +1,68 @@
+BirdtreeFormat,di,tri,cont,
+Acrocephalus_arundinaceus,1,2,2,
+Acrocephalus_palustris,0,0,0.5,6-7 months on the way to winter grounds
+Acrocephalus_schoenobaenus,1,2,2,
+Acrocephalus_stentoreus,1,2,2,
+Agelaius_phoeniceus,1,2,2,
+Anthus_trivialis,0,1,1.33,seem to learn from nest site neighbors
+Cacicus_cela,0,1,2,delayed learning and plumage maturation
+Cardinalis_cardinalis,0,1,1.33,Some learning in first breeding season
+Carduelis_chloris,1,2,2,
+Carpodacus_cassinii,0,1,1.33,yearling males learn in first breeding season
+Carpodacus_erythrinus,0,1,1.33,adopt the song of their coloney as yearlings
+Certhia_familiaris,0,1,1.33,most birds do not pick their final song until settling in their nesting area
+Dendroica_pensylvanica,1,2,2,
+Dendroica_petechia,0,1,1.33,males show more sharing later in the season than early in the season
+Dumetella_carolinensis,1,2,2,
+Emberiza_citrinella,0,NA,NA,"song repertoire is unique and constant year to year (hansen 1978, 1981, and unpublished via 1985)"
+Emberiza_hortulana,0,1,0.875,"All in all, I estimate the duration of the maximum learning time to 8 weeks, the maximum sensitive period at about 10.5 months. "
+Ficedula_albicollis,1,2,2,
+Ficedula_hypoleuca,1,2,2,
+Fringilla_coelebs,0,1,1,"""refines"" in first breeding season"
+Geothlypis_trichas,0,NA,NA,need borror 1967
+Hirundo_rustica,1,2,2,
+Hylocichla_mustelina,0,1,0.833,"the period of receptivity to experienced con-specifics, during which the central phrases become modified through learning, probably coincides with the first four months and does not extend beyond the tenth month of age; (3)"
+Junco_hyemalis,0,1,1,still plastic song at end of january
+Lamprotornis_superbus,1,2,2,
+Locustella_naevia,0,NA,NA,"need P. Becker, “Song of the grasshopper warbler Locustella naevia in acoustic isolation,” Vogelwarte, vol. 35, pp. 257–267, 1990."
+Lonchura_striata,0,0,0.167,needs to hear song around 40 days of age
+Luscinia_megarhynchos,1,2,2,
+Melospiza_georgiana,0,1,0.844,~308 days (start of the breeding season)
+Melospiza_lincolnii,1,2,2,
+Melospiza_melodia,0,1,1,april
+Miliaria_calandra,0,NA,NA,"no info on when learning ends, just that dialects don't change"
+Mimus_gilvus,1,2,2,
+Mimus_polyglottos,1,2,2,
+Molothrus_ater,0,1,1,delayed learning of local songs
+Padda_oryzivora,0,0,0.5,about 150-180 days
+Parus_atricapillus,0,0,0.5,180
+Parus_major,0,NA,NA,only compared between years
+Passer_domesticus,0,0,0.08,"not clearly stated, but the birds begin practicing soon after hatchign and are form near adult song by day 14"
+Passerella_iliaca,0,NA,NA,only compared between years
+Passerina_cyanea,0,1,1,matching neighbors
+Phoenicurus_ochruros,0,1,2,delayed learning and plumage maturation
+Phylloscopus_collybita,0,0,0.274,learning between  44 and 100 days
+Phylloscopus_fuscatus,1,2,2,
+Phylloscopus_trochilus,1,2,2,
+Pipilo_erythrophthalmus,0,NA,NA,"stable by 1 year, no further data"
+Prunella_modularis,1,2,2,
+Serinus_canaria,1,2,2,
+Serinus_serinus,1,2,2,
+Setophaga_ruticilla,1,2,2,
+Spizella_passerina,0,1,1,some plasticity post migrary to breeding territory
+Spizella_pusilla,0,1,1,song types pruned after settling on nesting territory
+Sturnella_neglecta,1,2,2,
+Sturnus_vulgaris,1,2,2,
+Sylvia_communis,1,2,2,
+Taeniopygia_guttata,0,0,0.247,90 days
+Toxostoma_rufum,1,2,2,
+Turdus_grayi,1,2,2,
+Turdus_merula,1,2,2,
+Zonotrichia_albicollis,0,NA,NA,recordings across years were the same
+Zonotrichia_leucophrys,0,1,1,280-360 days depending on subspecies
+Zosterops_lateralis,1,2,2,
+Geospiza_fortis,0,0,0.112,10-40 days
+Geospiza_scandens,0,0,0.112,10-40 days
+Philesturnus_rufusater,1,2,2,adult males learn all songs from all neighbors
+Passerculus_sandwichensis,0,1,1,1-2 weeks post migration to nesting ground
+Parus_palustris,0,0,0.583,August to October
