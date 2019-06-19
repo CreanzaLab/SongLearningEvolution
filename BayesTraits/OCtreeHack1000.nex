@@ -1,0 +1,147 @@
+#NEXUS
+[R-package APE, Thu Apr 11 01:45:57 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 67;
+	TAXLABELS
+		Philesturnus_carunculatus
+		Parus_atricapillus
+		Parus_major
+		Parus_palustris
+		Phylloscopus_trochilus
+		Phylloscopus_collybita
+		Phylloscopus_fuscatus
+		Hirundo_rustica
+		Acrocephalus_arundinaceus
+		Acrocephalus_stentoreus
+		Acrocephalus_schoenobaenus
+		Locustella_naevia
+		Acrocephalus_palustris
+		Zosterops_lateralis
+		Sylvia_communis
+		Toxostoma_rufum
+		Mimus_polyglottos
+		Mimus_gilvus
+		Dumetella_carolinensis
+		Sturnus_vulgaris
+		Lamprotornis_superbus
+		Hylocichla_mustelina
+		Turdus_merula
+		Turdus_grayi
+		Luscinia_megarhynchos
+		Ficedula_hypoleuca
+		Ficedula_albicollis
+		Phoenicurus_ochruros
+		Certhia_familiaris
+		Prunella_modularis
+		Lonchura_striata
+		Padda_oryzivora
+		Taeniopygia_guttata
+		Serinus_canaria
+		Serinus_serinus
+		Carduelis_chloris
+		Carpodacus_erythrinus
+		Carpodacus_cassinii
+		Fringilla_coelebs
+		Passerina_cyanea
+		Cardinalis_cardinalis
+		Geospiza_fortis
+		Geospiza_scandens
+		Molothrus_ater
+		Agelaius_phoeniceus
+		Cacicus_cela
+		Sturnella_neglecta
+		Miliaria_calandra
+		Emberiza_hortulana
+		Emberiza_citrinella
+		Passerculus_sandwichensis
+		Melospiza_georgiana
+		Melospiza_lincolnii
+		Melospiza_melodia
+		Pipilo_erythrophthalmus
+		Junco_hyemalis
+		Zonotrichia_albicollis
+		Zonotrichia_leucophrys
+		Passerella_iliaca
+		Spizella_pusilla
+		Spizella_passerina
+		Setophaga_ruticilla
+		Dendroica_pensylvanica
+		Dendroica_petechia
+		Geothlypis_trichas
+		Anthus_trivialis
+		Passer_domesticus
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Philesturnus_carunculatus,
+		2	Parus_atricapillus,
+		3	Parus_major,
+		4	Parus_palustris,
+		5	Phylloscopus_trochilus,
+		6	Phylloscopus_collybita,
+		7	Phylloscopus_fuscatus,
+		8	Hirundo_rustica,
+		9	Acrocephalus_arundinaceus,
+		10	Acrocephalus_stentoreus,
+		11	Acrocephalus_schoenobaenus,
+		12	Locustella_naevia,
+		13	Acrocephalus_palustris,
+		14	Zosterops_lateralis,
+		15	Sylvia_communis,
+		16	Toxostoma_rufum,
+		17	Mimus_polyglottos,
+		18	Mimus_gilvus,
+		19	Dumetella_carolinensis,
+		20	Sturnus_vulgaris,
+		21	Lamprotornis_superbus,
+		22	Hylocichla_mustelina,
+		23	Turdus_merula,
+		24	Turdus_grayi,
+		25	Luscinia_megarhynchos,
+		26	Ficedula_hypoleuca,
+		27	Ficedula_albicollis,
+		28	Phoenicurus_ochruros,
+		29	Certhia_familiaris,
+		30	Prunella_modularis,
+		31	Lonchura_striata,
+		32	Padda_oryzivora,
+		33	Taeniopygia_guttata,
+		34	Serinus_canaria,
+		35	Serinus_serinus,
+		36	Carduelis_chloris,
+		37	Carpodacus_erythrinus,
+		38	Carpodacus_cassinii,
+		39	Fringilla_coelebs,
+		40	Passerina_cyanea,
+		41	Cardinalis_cardinalis,
+		42	Geospiza_fortis,
+		43	Geospiza_scandens,
+		44	Molothrus_ater,
+		45	Agelaius_phoeniceus,
+		46	Cacicus_cela,
+		47	Sturnella_neglecta,
+		48	Miliaria_calandra,
+		49	Emberiza_hortulana,
+		50	Emberiza_citrinella,
+		51	Passerculus_sandwichensis,
+		52	Melospiza_georgiana,
+		53	Melospiza_lincolnii,
+		54	Melospiza_melodia,
+		55	Pipilo_erythrophthalmus,
+		56	Junco_hyemalis,
+		57	Zonotrichia_albicollis,
+		58	Zonotrichia_leucophrys,
+		59	Passerella_iliaca,
+		60	Spizella_pusilla,
+		61	Spizella_passerina,
+		62	Setophaga_ruticilla,
+		63	Dendroica_pensylvanica,
+		64	Dendroica_petechia,
+		65	Geothlypis_trichas,
+		66	Anthus_trivialis,
+		67	Passer_domesticus
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((52:1.554335093,53:1.554335093):1.255730073,54:2.810065165):3.864661722,51:6.674726887):3.549233588,55:10.22396047):0.5706980306,(((57:2.255091838,58:2.255091838):4.457065931,56:6.712157768):1.839493242,59:8.55165101):2.243007496):1.906733797,(60:5.191854393,61:5.191854393):7.509537909):2.489423359,((49:7.943961581,50:7.943961581):2.146069847,48:10.09003143):5.100784234):0.5724118381,(((44:7.142820877,45:7.142820877):6.189505225,46:13.3323261):0.9852148327,47:14.31754093):0.7629026079):3.372069229,(((63:2.223049044,64:2.223049044):2.94966038,62:5.172709424):3.988510953,65:9.161220377):9.276938712):2.622212626,((40:17.12226753,41:17.12226753):1.817203956,(42:4.878940142,43:4.878940142):14.06053134):2.832391556):5.639071491,((((34:6.353613108,35:6.353613108):5.030082169,36:11.38369528):6.323088648,(37:12.53923446,38:12.53923446):5.167549466):8.354102451,39:26.06088638):1.350048153):2.997639515,66:30.58613481):1.398392938,67:31.80600616):3.638492551,(((31:10.4805638,32:10.4805638):1.019916847,33:11.50048065):21.24088055,30:32.71701505):2.909996625):8.154735755,((((((26:1.591824636,27:1.591824636):14.01507806,28:15.60690269):0.6902241801,25:16.29712687):9.651291083,((23:9.973038208,24:9.973038208):8.209246646,22:18.18228485):7.766133102):3.502641934,((((17:1.73046953,18:1.73046953):11.15605288,16:12.88652241):2.820452957,19:15.70697537):7.22988346,(20:16.75320165,21:16.75320165):6.183657171):6.514201064):9.388263531,29:38.83932342):4.969800711):0.9608727679,((((((9:2.826145555,10:2.826145555):7.645609096,11:10.47175465):15.99647399,(12:17.59440401,13:17.59440401):8.873824635):2.306676497,(14:21.21485965,15:21.21485965):7.623994945):4.03624489,(((5:5.601714386,6:5.601714386):4.358533857,7:9.960248243):20.08392692,8:30.51618511):2.308469074):8.842207843,((3:8.180955416,4:8.180955416):8.196135991,2:16.37709141):26.04077788):2.352127619):5.851964685,1:50.62196159);
+END;
